@@ -22,6 +22,8 @@ namespace Finch_Starter
             myFinch = new Finch();
 
             //Finch myFinch = new Finch();
+            //
+            //test
 
             //
             // call the connect method
